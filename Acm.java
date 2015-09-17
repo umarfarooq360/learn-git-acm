@@ -9,7 +9,8 @@ public class Acm{
 	private static String[] members = {
 		"Omar Farooq",
 		"Alexandru Pana",
-		"John Keto"
+		"John Keto",
+		"Michael Dombrowski"
 	};
 
 	 public static void main(String[] args) {
